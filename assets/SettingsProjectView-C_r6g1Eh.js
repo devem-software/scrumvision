@@ -1,0 +1,1 @@
+import{_ as t,c as n,a as o,o as r}from"./index-DJf5Hn_5.js";const s={};function c(a,e){return r(),n("div",null,e[0]||(e[0]=[o("h1",null,"Settings project",-1)]))}const i=t(s,[["render",c]]);export{i as default};
