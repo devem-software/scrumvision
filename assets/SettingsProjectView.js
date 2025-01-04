@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper.js";import{c as o,a as r,o as n}from"./index.js";const s={};function c(a,e){return n(),o("div",null,e[0]||(e[0]=[r("h1",null,"Settings project",-1)]))}const f=t(s,[["render",c]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.js";import{c as r,a as t,o as a}from"./index.js";const n={};function s(c,e){return a(),r("div",null,e[0]||(e[0]=[t("h1",null,"Report View Team",-1)]))}const f=o(n,[["render",s]]);export{f as default};
